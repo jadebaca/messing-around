@@ -1,5 +1,5 @@
 /**
- *@file lab2.c
+ *@file geometrycalc.c
  *@brief This program caculates geometric data.
  *@author Jade Baca
  *@date February 2017
